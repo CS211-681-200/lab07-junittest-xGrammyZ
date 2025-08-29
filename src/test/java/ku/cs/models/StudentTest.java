@@ -58,5 +58,5 @@ class StudentTest {
         student.addScore(80);
         assertEquals("A", student.getGrade());
     }
-    
+
 }
